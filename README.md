@@ -17,7 +17,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,django,flask,react,mongodb,mysql,js,wordrpress,shopify" />
+      <img src="https://skillicons.dev/icons?i=py,django,flask,react,mongodb,mysql,js,wordpress" />
     </a>
   </p>
 
