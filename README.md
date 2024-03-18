@@ -11,12 +11,13 @@
   <p><strong>Web Frameworks: </strong> Django, Flask, React</p>
   <p><strong>Database Systems: </strong> PostgreSQL, MySQL, MongoDB</p>
   <p><strong>Web Technologies: </strong> HTML5, CSS3, Sass, Bootstrap</p>
+   <p><strong>CMS: </strong> WordPress, Shopify, Webflow</p>
   <p><strong>Version Control: </strong> Git, GitHub</p>
   <p><strong>Other Tools: </strong> Docker, Heroku, AWS, RESTful APIs</p>
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,django,flask,react,mongodb,mysql,js" />
+      <img src="https://skillicons.dev/icons?i=py,django,flask,react,mongodb,mysql,js,wordrpress,shopify" />
     </a>
   </p>
 
